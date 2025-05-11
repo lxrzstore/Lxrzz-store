@@ -66,8 +66,8 @@
 
     <div class="product">
         <h2>Pack de Edição para Quiz</h2>
-        <!-- Imagem baseada no seu texto (simulada) -->
-        <img src="https://via.placeholder.com/500x300/000000/ff0000?text=LXRZ+STORE%0APACK+DE+EDIÇÃO%0APARA+QUIZ%0A%0A---%0A%0ACRIE+MEMES+ENGRAÇADOS!%0AR$+19,99%0A%0ACOMPRAR+VIA+WHATSAPP%0A5583999377047" alt="Pack de Edição para Quiz">
+        <!-- IMAGEM: só enviar o arquivo para o GitHub com o nome abaixo -->
+        <img src="9da8a627-235a-44fe-9208-9b41881420d5.png" alt="Pack de Edição para Quiz">
         <p>Kit completo para criar quizzes e memes profissionais! Inclui templates, efeitos e transições.</p>
         <p class="price">R$ 19,99</p>
         <a href="https://wa.me/5583999377047?text=Quero%20comprar%20o%20Pack%20de%20Edição%20para%20Quiz!" target="_blank">
