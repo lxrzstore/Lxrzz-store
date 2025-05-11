@@ -28,6 +28,7 @@
         .product img {
             max-width: 100%;
             border-radius: 5px;
+            border: 2px solid #ff0000;
         }
         .price {
             font-size: 24px;
@@ -65,8 +66,9 @@
 
     <div class="product">
         <h2>Pack de Edição para Quiz</h2>
-        <img src="https://via.placeholder.com/500x300/ff0000/000000?text=Pack+Quiz" alt="Pack de Edição para Quiz">
-        <p>Kit completo para criar quizzes profissionais! Inclui templates, efeitos e transições.</p>
+        <!-- Imagem baseada no seu texto (simulada) -->
+        <img src="https://via.placeholder.com/500x300/000000/ff0000?text=LXRZ+STORE%0APACK+DE+EDIÇÃO%0APARA+QUIZ%0A%0A---%0A%0ACRIE+MEMES+ENGRAÇADOS!%0AR$+19,99%0A%0ACOMPRAR+VIA+WHATSAPP%0A5583999377047" alt="Pack de Edição para Quiz">
+        <p>Kit completo para criar quizzes e memes profissionais! Inclui templates, efeitos e transições.</p>
         <p class="price">R$ 19,99</p>
         <a href="https://wa.me/5583999377047?text=Quero%20comprar%20o%20Pack%20de%20Edição%20para%20Quiz!" target="_blank">
             <button class="buy-button">COMPRAR VIA WHATSAPP</button>
